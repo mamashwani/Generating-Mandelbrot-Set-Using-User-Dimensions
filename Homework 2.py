@@ -24,9 +24,9 @@ for row in range(height):
         z = complex(x,y)
         
         if is_in_Mandelbrot(z):
-            print("@", end="")
+            print("*", end="")
         else:
-            print(" ", end="")
+            print("-", end="")
     #the for loop on col is finished
     print()
 #the for loop on row is finished here
