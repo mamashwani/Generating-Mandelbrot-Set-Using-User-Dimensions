@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Dan Biediger
-Homework #2
-Sample solution for Homework #2
 """
 
 def is_in_Mandelbrot(c):
